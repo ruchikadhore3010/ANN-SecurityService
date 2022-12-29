@@ -1,0 +1,14 @@
+in\ibm\controller\UserController.class
+in\ibm\config\WebSecurityConfig.class
+in\ibm\dao\UserRepository.class
+in\ibm\config\JwtRequestFilter.class
+in\ibm\config\JwtAuthenticationEntryPoint.class
+in\ibm\entity\User.class
+in\ibm\entity\Role.class
+in\ibm\config\JwtTokenUtil.class
+in\ibm\controller\JwtAuthenticationController.class
+in\ibm\CaseStudySecurityServiceApplication.class
+in\ibm\entity\JwtRequest.class
+in\ibm\service\JwtUserDetailsService.class
+in\ibm\entity\UserDTO.class
+in\ibm\entity\JwtResponse.class
